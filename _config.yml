@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Farmer
 
 # Your name to show in the footer
-author: Some Person
+author: 4rcz3r
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "4rcz3r.github.io/Farmer-releases"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
